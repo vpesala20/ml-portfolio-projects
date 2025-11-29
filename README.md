@@ -1,10 +1,12 @@
 📘 Machine Learning Portfolio
+
 Regression • Classification • Ensemble Models • Time-Series Forecasting
 
 This portfolio showcases my hands-on machine learning work using real datasets across multiple domains.
 Each project demonstrates data preprocessing, EDA, model building, evaluation, and visualization — aligned with industry standards.
 
 📂 Projects Overview
+
 1️⃣ Linear Regression — Predicting Student Scores
 
 📁 Folder: notebook1-linear-regression
@@ -72,6 +74,7 @@ ARIMA modeling
 Visualization of forecast
 
 🎄 Bonus Project (Competition)
+
 Santa 2025 — Christmas Tree Packing Challenge
 
 📁 Folder: notebook5-santa-packing (optional to add later)
